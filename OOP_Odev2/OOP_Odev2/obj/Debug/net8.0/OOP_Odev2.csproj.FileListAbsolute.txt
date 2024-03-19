@@ -1,0 +1,4 @@
+C:\Users\erayg\source\repos\OOP_Odev2\OOP_Odev2\obj\Debug\net8.0\OOP_Odev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erayg\source\repos\OOP_Odev2\OOP_Odev2\obj\Debug\net8.0\OOP_Odev2.AssemblyInfoInputs.cache
+C:\Users\erayg\source\repos\OOP_Odev2\OOP_Odev2\obj\Debug\net8.0\OOP_Odev2.AssemblyInfo.cs
+C:\Users\erayg\source\repos\OOP_Odev2\OOP_Odev2\obj\Debug\net8.0\OOP_Odev2.csproj.CoreCompileInputs.cache

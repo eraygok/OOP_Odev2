@@ -1,0 +1,4 @@
+C:\Users\erayg\source\repos\OOP_Odev2\Inheritance_Ornek3\obj\Debug\net8.0\Inheritance_Ornek3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erayg\source\repos\OOP_Odev2\Inheritance_Ornek3\obj\Debug\net8.0\Inheritance_Ornek3.AssemblyInfoInputs.cache
+C:\Users\erayg\source\repos\OOP_Odev2\Inheritance_Ornek3\obj\Debug\net8.0\Inheritance_Ornek3.AssemblyInfo.cs
+C:\Users\erayg\source\repos\OOP_Odev2\Inheritance_Ornek3\obj\Debug\net8.0\Inheritance_Ornek3.csproj.CoreCompileInputs.cache

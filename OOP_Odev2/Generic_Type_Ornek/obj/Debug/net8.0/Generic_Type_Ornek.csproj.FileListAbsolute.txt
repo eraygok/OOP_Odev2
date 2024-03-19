@@ -1,0 +1,14 @@
+C:\Users\erayg\source\repos\OOP_Odev2\Generic_Type_Ornek\bin\Debug\net8.0\Generic_Type_Ornek.exe
+C:\Users\erayg\source\repos\OOP_Odev2\Generic_Type_Ornek\bin\Debug\net8.0\Generic_Type_Ornek.deps.json
+C:\Users\erayg\source\repos\OOP_Odev2\Generic_Type_Ornek\bin\Debug\net8.0\Generic_Type_Ornek.runtimeconfig.json
+C:\Users\erayg\source\repos\OOP_Odev2\Generic_Type_Ornek\bin\Debug\net8.0\Generic_Type_Ornek.dll
+C:\Users\erayg\source\repos\OOP_Odev2\Generic_Type_Ornek\bin\Debug\net8.0\Generic_Type_Ornek.pdb
+C:\Users\erayg\source\repos\OOP_Odev2\Generic_Type_Ornek\obj\Debug\net8.0\Generic_Type_Ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erayg\source\repos\OOP_Odev2\Generic_Type_Ornek\obj\Debug\net8.0\Generic_Type_Ornek.AssemblyInfoInputs.cache
+C:\Users\erayg\source\repos\OOP_Odev2\Generic_Type_Ornek\obj\Debug\net8.0\Generic_Type_Ornek.AssemblyInfo.cs
+C:\Users\erayg\source\repos\OOP_Odev2\Generic_Type_Ornek\obj\Debug\net8.0\Generic_Type_Ornek.csproj.CoreCompileInputs.cache
+C:\Users\erayg\source\repos\OOP_Odev2\Generic_Type_Ornek\obj\Debug\net8.0\Generic_Type_Ornek.dll
+C:\Users\erayg\source\repos\OOP_Odev2\Generic_Type_Ornek\obj\Debug\net8.0\refint\Generic_Type_Ornek.dll
+C:\Users\erayg\source\repos\OOP_Odev2\Generic_Type_Ornek\obj\Debug\net8.0\Generic_Type_Ornek.pdb
+C:\Users\erayg\source\repos\OOP_Odev2\Generic_Type_Ornek\obj\Debug\net8.0\Generic_Type_Ornek.genruntimeconfig.cache
+C:\Users\erayg\source\repos\OOP_Odev2\Generic_Type_Ornek\obj\Debug\net8.0\ref\Generic_Type_Ornek.dll
